@@ -901,7 +901,7 @@ h3.card-title > button::after{
  .to-top{
     position: fixed;
     right: 80px;
-    bottom: 100px;
+    bottom: 50px;
     border: 2px solid #13FFF1;
     border-radius: 50%;
     width: 50px;
