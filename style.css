@@ -259,6 +259,7 @@ text-align: left;
     padding: 10px 5px;
     text-align: center;
     color: #FFFFFF;
+    margin-bottom: 20px;
 }
 .q1{
     top: 480px;
@@ -895,4 +896,10 @@ h3.card-title > button::after{
  header img,
  footer img{
     width: 100%;
+ }
+
+ .to-top{
+    position: sticky;
+    right: 80px;
+    bottom: 100px;
  }
